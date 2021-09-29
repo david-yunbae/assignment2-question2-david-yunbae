@@ -1,34 +1,15 @@
-## Welcome to 'Ex2' Multiserver package!
+# Welcome to 'Ex2' Multiserver package!
 
 **As noted in the assignment prompt, this Github Pages is not directly the private assignment repo! I have included a copy of this md file in the private repo, so please inspect it! The file is named 'index.md'.**
 
 
-# Multiserver
+## Installing my package
+I have tested the installation and it worked. Except, the private repo denied access, so I ended up opening a personal public repo and cloning all the contents into it, then running the test. This means I can't possibly test the private repo at all. I will still hope you won't run into an unexpected error. Please copy and paste the below codes and run them line by line (these codes worked for me).
 
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+library(devtools)
+install_github("david-yunbae/assignment2-question2-david-yunbae")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
