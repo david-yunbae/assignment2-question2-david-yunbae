@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to 'Ex2' Multiserver package!
 
-You can use the [editor on GitHub](https://github.com/david-yunbae/assignment2-question2-david-yunbae/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**As noted in the assignment prompt, this Github Pages is not directly the private assignment repo! I have included a copy of this md file in the private repo, so please inspect it! The file is named 'index.md'.**
+
+
+# Multiserver
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
