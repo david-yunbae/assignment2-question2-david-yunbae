@@ -28,7 +28,7 @@ You could take these codes to inspect the documentations for Multiserver and the
 Please inspect the rest of the documentations in the repo!
 
 ## Github Action (CI)
-
+I used an existing workflow code. There was a workflow for R users. I had a read through the choices in this [link](https://github.com/r-lib/actions/tree/master/examples#readme).
 
 ## The rest of the Check List
 #### I have prepared testthat codes
