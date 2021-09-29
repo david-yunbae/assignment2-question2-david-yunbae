@@ -31,7 +31,4 @@ Please inspect the rest of the documentations in the repo!
 I used an existing workflow code. There was a workflow for R users. I had a read through the choices in this [link](https://github.com/r-lib/actions/tree/master/examples#readme). The assignment asked to prepare the Github Action for CRAN checks. So, I chose the 'standard CI workflow'. This option seems to fit more experienced developers, but it specified that the users who seek to upload their packages to CRAN should use the workflow. In this way, I assumed that this Github Action includes the CRAN checks.
 
 ## The rest of the Check List
-#### I have prepared testthat codes
-#### I have made multiple commits
-#### I have set up Github Pages and Github Action properly
-#### I have implemented tibble
+Please inspect the files in my repo!
