@@ -30,7 +30,7 @@ Please inspect the rest of the documentations in the repo!
 ## Github Action (CI)
 I used an existing workflow code. There was a workflow for R users. I had a read through the choices in this [link](https://github.com/r-lib/actions/tree/master/examples#readme). The assignment asked to prepare the Github Action for CRAN checks. So, I chose the 'standard CI workflow'. This option seems to fit more experienced developers, but it specified that the users who seek to upload their packages to CRAN should use the workflow. In this way, I assumed that this Github Action includes the CRAN checks.
 
-**Note: 4 out of 5 operating systems worked except for this one - os: ubuntu-latest,   r: 'devel', http-user-agent: 'release'. The whole purpose of using the 'standard CI workflow' is to show that I chose the right CI workflow for CRAN checks, rather than the actual practicality. I made some changes in the workflow codes and removed the ubuntu-latest devel, just to make sure I pass the workflow tests.**
+**Note: 4 out of 5 operating systems worked except for this one - os: ubuntu-latest,   r: 'devel', http-user-agent: 'release'. The whole purpose of using the 'standard CI workflow' was to show that I chose the right CI workflow for CRAN checks, rather than the actual practicality. After all, I made some changes in the workflow codes and removed the ubuntu-latest devel, and I passed the workflow tests. Please consider this for me!**
 
 ## The rest of the Check List
 Please inspect the files in my repo!
