@@ -16,3 +16,22 @@ Multiserver(bank$arrival_time,bank$service_time,2)
 
 ### Notes
 The package name is 'Ex2' and the data set is named 'bank'.
+
+## Documentations
+You could take these codes to inspect the documentations for Multiserver and the 'bank' data set.
+
+```markdown
+?bank
+?Multiserver
+```
+
+Please inspect the rest of the documentations in the repo!
+
+## Github Action (CI)
+
+
+## The rest of the Check List
+#### I have prepared testthat codes
+#### I have made multiple commits
+#### I have set up Github Pages and Github Action properly
+#### I have implemented tibble
