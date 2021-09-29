@@ -4,20 +4,15 @@
 
 
 ## Installing my package
-I have tested the installation and it worked. Except, the private repo denied access, so I ended up opening a personal public repo and cloning all the contents into it, then running the test. This means I can't possibly test the private repo at all. I will still hope you won't run into an unexpected error. Please copy and paste the below codes and run them line by line (these codes worked for me).
+I have tested the installation and it worked. Except, the private repo denied access, so I ended up opening a personal public repo and cloning all the contents into it, then running the test. This means I can't possibly test the private repo at all. You have the access and I will hope you won't run into any error. If you want to inspect it easily, please copy and paste the below codes and run them line by line.
 
 
 ```markdown
 library(devtools)
-install_github("david-yunbae/assignment2-question2-david-yunbae")
+install_github("MQ-STAT1378/assignment2-question2-david-yunbae")
+library(Ex2)
+Multiserver(bank$arrival_time,bank$service_time,2)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/david-yunbae/assignment2-question2-david-yunbae/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Notes
+The package name is 'Ex2' and the data set is named 'bank'.
