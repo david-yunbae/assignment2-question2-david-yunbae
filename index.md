@@ -16,6 +16,14 @@ library(Ex2)
 Multiserver(bank$arrival_time,bank$service_time,2)
 ```
 
+Just in case the MQ-STAT1378 does not work (I don't have access to it so I cannot make sure to debug any errors :(..), please use this:
+
+```markdown
+install.github("david-yunbae/assignment2-question2-david-yunbae")
+```
+
+This would install exactly identical package!
+
 ### Notes
 The package name is 'Ex2' and the data set is named 'bank'.
 
